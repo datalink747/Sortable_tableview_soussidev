@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Soussidev Sortable Tableview</string>
+
+    <string name="default_text_ps">180PS</string>
+    <string name="separator">/</string>
+    <string name="default_text_kws">120kW</string>
+
+    <string name="car_producer_image_content_description">Car Producer</string>
+    <string name="kw">kW</string>
+    <string name="cat">Cat</string>
+    <string name="marque">Marque</string>
+    <string name="model">Modele</string>
+    <string name="qantite">QT</string>
+    <string name="prix">Prix</string>
+</resources>

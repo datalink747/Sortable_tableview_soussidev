@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sortable_tableview_soussidev.iml" filepath="$PROJECT_DIR$/Sortable_tableview_soussidev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matarialsortabletableview/matarialsortabletableview.iml" filepath="$PROJECT_DIR$/matarialsortabletableview/matarialsortabletableview.iml" />
+    </modules>
+  </component>
+</project>

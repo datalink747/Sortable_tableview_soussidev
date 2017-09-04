@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="table_header_text">#CCFFFFFF</color>
+    <color name="table_data_row_even">#20700AE9</color>
+    <color name="table_data_row_odd">#13C95AE0</color>
+    <color name="table_prix_bas">#FF2E7D32</color>
+    <color name="table_prix_haute">#FFC62828</color>
+    <color name="table_prix_passable">#FFE19000</color>
+
+    <color name="primaryDark">#FF283593</color>
+    <color name="primary">#FF3F51B5</color>
+</resources>
