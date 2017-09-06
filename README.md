@@ -4,6 +4,14 @@
 
 Nice Sortable TableView
 
+# Add dependencie to your project :
+
+```gradle
+dependencies {
+    compile 'com.github.datalink747:Sortable_tableview_soussidev:1.0'
+}
+```
+
 # Linkedin
 
 <a href="https://www.linkedin.com/in/soussimohamed/">
