@@ -10,6 +10,11 @@ Nice Sortable TableView<br>
 # Add dependencie to your project :
 
 ```gradle
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+
 dependencies {
     compile 'com.github.datalink747:Sortable_tableview_soussidev:1.0'
 }
